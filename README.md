@@ -1,7 +1,7 @@
 # Passport MRZ Extractor
 ## I have developed this application to extracts data from Passport.
 #
-# Install below required libraries.
+# Install below required libraries by using following commands.
 1. pip install passporteye
 2. pip install opencv-python
 3. pip install regex
